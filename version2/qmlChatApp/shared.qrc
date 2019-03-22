@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/shared">
+        <file>images/Albert_Einstein.png</file>
+    </qresource>
+</RCC>

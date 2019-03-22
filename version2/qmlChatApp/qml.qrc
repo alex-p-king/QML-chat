@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>images/Albert_Einstein.png</file>
+        <file>images/Ernest_Hemingway.png</file>
+        <file>ContactsPage.qml</file>
+    </qresource>
+</RCC>
